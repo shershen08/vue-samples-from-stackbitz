@@ -1,3 +1,13 @@
-# js-mt9ztn
+# Vue live demos
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-mt9ztn)
+## Prupose
+
+This repository is a list of examples how to build web apps with VueJS. Each example demonstates various features of the framework and intended as demo content during workshops and webinars.
+
+## Contributing
+
+Feel free to submit a issue or PR.
+
+## License
+
+MIT
